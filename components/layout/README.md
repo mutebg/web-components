@@ -23,3 +23,28 @@
 - **-sm**: from 768px and above;
 - **-md**: from 1024px and above;
 - **-lg**: from 1200px and above;
+
+# only-layout
+
+## Usage
+
+```
+ <only-layout from="500px" to="md">
+    <p>Show only from 500px to md</p>
+</only-layout>
+
+<only-layout from="sm" to="md" except="except">
+    NOT show from sm to md
+</only-layout>
+
+<only-layout for="md">
+    <p>Show only from MD ( md till LG )</p>
+</only-layout>
+```
+
+## Attributes
+
+- **from** : Starting breakpoint
+- **to** : Ending breakpoint
+- **for** : Breakpoint
+- **except** : Reverse behavior

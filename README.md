@@ -29,4 +29,5 @@ TODO
 
 ### Only
 
-TOOD
+- [Docs](./components/layout/README.md#only)
+- [Demo](https://codesandbox.io/s/onlylayout-ko2ui)
