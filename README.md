@@ -31,3 +31,10 @@ TODO
 
 - [Docs](./components/layout/README.md#only)
 - [Demo](https://codesandbox.io/s/onlylayout-ko2ui)
+
+## Format
+
+### TimeDisplay
+
+- [Docs](./components/format/README.md#timedisplay)
+- [Demo](https://codesandbox.io/s/zealous-minsky-cejxn)
